@@ -1,0 +1,8 @@
+.cont{
+    border: 5px dotted rgb(172, 224, 15);
+    min-height:300px ;
+    outline-offset: 15px;
+}
+p{
+  border: 17px solid rgb(246, 5, 150); 
+}

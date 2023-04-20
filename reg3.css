@@ -1,0 +1,38 @@
+.formtable{
+    background-color: rgba(0,0,0 ,0.5);
+    margin: 115px auto;
+    width: 400px;
+    color: beige;
+}
+body{
+background-image: url('https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg');
+background-repeat: no-repeat ;
+background-position: center;
+}
+
+.designusername{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.formtable
+h2,h3,h6{text-align: center;
+}
+.formtable
+h4{text-align: center;
+
+}
+.forgothref{
+    float: right;
+}
+.buttonstyle{
+    width: 400px;
+}
+input[type="text"]{
+    width: 300px;
+}
+input[type="password"]
+{ width: 300px;
+}
+
+

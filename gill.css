@@ -1,0 +1,60 @@
+/*  TO set an back ground propereties */
+.mainDiv1
+{
+    background-color: rgb(7, 241, 233);
+    max-width: 50%;
+    border: 1px solid rgb(17, 206, 155);
+}
+.mainDiv2,.mainDiv3
+{
+    background-color: rgb(7, 241, 233);
+    max-width: 50%;
+    border: 1px solid rgb(28, 228, 198);
+     border-radius: 15px;
+}
+.abOut{
+    max-width:45%;
+}
+.iplAbout{
+    max-width: 55%;
+}
+/* To set an image properties */
+.picTure1{
+    float: right;  
+    margin-top: -200px;
+    margin-right:100px;
+}
+.picTure2{
+    margin-top: -170px;
+    margin-right:100px;
+    padding: 5px;
+}
+.iplAbout{
+    margin-left: 30%;
+    border-radius: 15px;
+}
+/* To set background properties */
+.viDeos{
+    background-color: aquamarine;
+    max-width: 500px;
+    border-radius: 15px;
+}
+/* To set an paragraph txt properties */
+.paRa1{
+    margin-left: 15%;
+}
+.paRa2{
+    margin-left: 40%;
+    margin-top: -7%;
+}
+.paRa3{
+    margin-left: 65%;
+    margin-top:-53px;
+}
+/* To set an position of button */
+#butTon{
+    position: absolute;
+    left: 20%;
+    top: 850px;
+}
+
