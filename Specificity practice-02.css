@@ -1,0 +1,21 @@
+.contAiner-1{
+    background-color: #f6f5f1;
+    padding:10px;
+}
+h1{
+    font-family: "roboto";
+    font-size: 30px;
+}
+#HeaDing{
+    color:blue;
+}
+li{
+    font-family: "roboto";
+    font-weight: 500;
+    padding:10px;
+}
+.compLeted{
+    color:gray;
+    text-decoration:line-through;
+    font-style:italic;
+}

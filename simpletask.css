@@ -1,0 +1,21 @@
+.main{
+    border: solid 3px blueviolet;
+    height: 50  px;
+    width: 221px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.reset{
+    margin-left: 90px;
+    margin-top: 7px;
+    background-color: aqua;
+    color: black;
+}
+#add{
+    background-color: green;
+    color: white;
+}
+#sub{
+    background-color: red;
+    color: white;
+}

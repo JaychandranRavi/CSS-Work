@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Roboto:wght@300&family=Sigmar&display=swap');
+.card-body{
+background-color: #f6c56e;
+}
+
+.card-body h5{
+    font-family: 'Bree Serif', serif;
+    color:#323f4b  ;
+}
+.card-body p{
+    font-family: 'roboto', serif;
+    color:#323f4b;
+}
+.btn-primary{
+    background-color: #ffffff ;
+    color: #323f4b;
+
+    
+}
